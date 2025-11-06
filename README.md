@@ -1,7 +1,7 @@
 # kids_miniproject_data_visualization
 
-In this repository we aim to analize and visualize the data found on 
+In diesem Projekt analysieren und visualisieren wir die Daten die wir unter:
 
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
-in order to accomplish our task in Artificial Intelligence and Data Science.
+über die Daten der Passagiere der Titanik gefunden haben.
